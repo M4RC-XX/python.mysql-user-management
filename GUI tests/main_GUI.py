@@ -34,7 +34,7 @@ button.place(relx=0.5, rely=0.4, anchor=tkinter.CENTER)
 button = customtkinter.CTkButton(master=app, fg_color="green", text="IP-Entsperren", command=unlock)
 button.place(relx=0.5, rely=0.55, anchor=tkinter.CENTER)
 
-label = customtkinter.CTkLabel(master=app, text="https://github.com/M4RC-X/")
+label = customtkinter.CTkLabel(master=app, text="https://github.com/M4RC-XX/")
 label.place(relx=0.5, rely=0.75, anchor=tkinter.CENTER)
 
 
